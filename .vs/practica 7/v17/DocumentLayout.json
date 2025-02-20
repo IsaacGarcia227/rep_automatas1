@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Toshiba\\Documents\\ITE - TAREAS\\5\u00BA SEMESTRE\\LENGUAJES Y AUTOMATAS\\PRODUCTO PRACTICA 1 - 21 nov 024\\practica 7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8126894-54F0-4C49-8AD5-E646EFC62FDD}|practica 7.csproj|c:\\users\\toshiba\\documents\\ite - tareas\\5\u00BA semestre\\lenguajes y automatas\\producto practica 1 - 21 nov 024\\practica 7\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8126894-54F0-4C49-8AD5-E646EFC62FDD}|practica 7.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8126894-54F0-4C49-8AD5-E646EFC62FDD}|practica 7.csproj|C:\\Users\\Toshiba\\Documents\\ITE - TAREAS\\5\u00BA SEMESTRE\\LENGUAJES Y AUTOMATAS\\PRODUCTO PRACTICA 1 - 21 nov 024\\practica 7\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8126894-54F0-4C49-8AD5-E646EFC62FDD}|practica 7.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Toshiba\\Documents\\ITE - TAREAS\\5\u00BA SEMESTRE\\miFuncionCopy.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "miFuncionCopy.c",
+              "DocumentMoniker": "C:\\Users\\Toshiba\\Documents\\ITE - TAREAS\\5\u00BA SEMESTRE\\miFuncionCopy.c",
+              "RelativeDocumentMoniker": "..\\..\\..\\miFuncionCopy.c",
+              "ToolTip": "C:\\Users\\Toshiba\\Documents\\ITE - TAREAS\\5\u00BA SEMESTRE\\miFuncionCopy.c",
+              "RelativeToolTip": "..\\..\\..\\miFuncionCopy.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-21T07:09:21.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Toshiba\\Documents\\ITE - TAREAS\\5\u00BA SEMESTRE\\LENGUAJES Y AUTOMATAS\\PRODUCTO PRACTICA 1 - 21 nov 024\\practica 7\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Toshiba\\Documents\\ITE - TAREAS\\5\u00BA SEMESTRE\\LENGUAJES Y AUTOMATAS\\PRODUCTO PRACTICA 1 - 21 nov 024\\practica 7\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAADwvw8AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T07:39:32.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Toshiba\\Documents\\ITE - TAREAS\\5\u00BA SEMESTRE\\LENGUAJES Y AUTOMATAS\\PRODUCTO PRACTICA 1 - 21 nov 024\\practica 7\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Toshiba\\Documents\\ITE - TAREAS\\5\u00BA SEMESTRE\\LENGUAJES Y AUTOMATAS\\PRODUCTO PRACTICA 1 - 21 nov 024\\practica 7\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAFMDAABAMzMzMzMtwFMDAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T06:48:46.45Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

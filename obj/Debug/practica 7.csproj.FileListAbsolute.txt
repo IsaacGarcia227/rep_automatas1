@@ -1,0 +1,10 @@
+C:\Users\Toshiba\Documents\ITE - TAREAS\5º SEMESTRE\LENGUAJES Y AUTOMATAS\PRODUCTO PRACTICA 1\practica 7\bin\Debug\practica 7.exe.config
+C:\Users\Toshiba\Documents\ITE - TAREAS\5º SEMESTRE\LENGUAJES Y AUTOMATAS\PRODUCTO PRACTICA 1\practica 7\bin\Debug\practica 7.exe
+C:\Users\Toshiba\Documents\ITE - TAREAS\5º SEMESTRE\LENGUAJES Y AUTOMATAS\PRODUCTO PRACTICA 1\practica 7\bin\Debug\practica 7.pdb
+C:\Users\Toshiba\Documents\ITE - TAREAS\5º SEMESTRE\LENGUAJES Y AUTOMATAS\PRODUCTO PRACTICA 1\practica 7\obj\Debug\practica 7.csproj.AssemblyReference.cache
+C:\Users\Toshiba\Documents\ITE - TAREAS\5º SEMESTRE\LENGUAJES Y AUTOMATAS\PRODUCTO PRACTICA 1\practica 7\obj\Debug\practica_7.Form1.resources
+C:\Users\Toshiba\Documents\ITE - TAREAS\5º SEMESTRE\LENGUAJES Y AUTOMATAS\PRODUCTO PRACTICA 1\practica 7\obj\Debug\practica_7.Properties.Resources.resources
+C:\Users\Toshiba\Documents\ITE - TAREAS\5º SEMESTRE\LENGUAJES Y AUTOMATAS\PRODUCTO PRACTICA 1\practica 7\obj\Debug\practica 7.csproj.GenerateResource.cache
+C:\Users\Toshiba\Documents\ITE - TAREAS\5º SEMESTRE\LENGUAJES Y AUTOMATAS\PRODUCTO PRACTICA 1\practica 7\obj\Debug\practica 7.csproj.CoreCompileInputs.cache
+C:\Users\Toshiba\Documents\ITE - TAREAS\5º SEMESTRE\LENGUAJES Y AUTOMATAS\PRODUCTO PRACTICA 1\practica 7\obj\Debug\practica 7.exe
+C:\Users\Toshiba\Documents\ITE - TAREAS\5º SEMESTRE\LENGUAJES Y AUTOMATAS\PRODUCTO PRACTICA 1\practica 7\obj\Debug\practica 7.pdb
